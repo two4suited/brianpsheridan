@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://brianpsheridan.com"
+baseurl = "http://brianpsheridan.com"
 languageCode = "en-us"
 title = "Brian Sheridan"
 theme = "spectre-pixel"
