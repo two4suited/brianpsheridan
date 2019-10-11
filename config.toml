@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.com/"
+baseurl = "https://brianpsheridan.com"
 languageCode = "en-us"
 title = "Brian Sheridan"
 theme = "spectre-pixel"
@@ -44,7 +44,7 @@ googleAnalytics = ""
 [social]
 	email    = "brian.sheridan@gmail.com"
 	facebook = "https://www.facebook.com/"
-	github   = "https://www.github.com/"
+	github   = "https://www.github.com/two4suited"
 	linkedin = "https://www.linkedin.com/"
 	twitter  = "https://www.twitter.com/"
 
