@@ -22,7 +22,7 @@ steps:
   inputs:
     awsCredentials: 'AWS'
     regionName: 'us-west-2'
-    bucketName: 'brianpsheridan'
+    bucketName: 'brianpsheridan.com'
     sourceFolder: '$(System.DefaultWorkingDirectory)/public'
     globExpressions: '**'
     filesAcl: 'public-read'
