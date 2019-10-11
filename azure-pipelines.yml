@@ -27,18 +27,5 @@ steps:
     globExpressions: '**'
     filesAcl: 'public-read'
 
-- task: CopyFiles@2
-  inputs:
-    SourceFolder: '$(System.DefaultWorkingDirectory)/public'
-    Contents: '**'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
-
-- task: PublishBuildArtifacts@1
-  inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'website'
-    publishLocation: 'Container'
-
-
 
 
