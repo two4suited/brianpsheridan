@@ -18,6 +18,14 @@ steps:
     source: 
     destination: '$(System.DefaultWorkingDirectory)/public'
 
+- task: S3Upload@1
+  inputs:
+    regionName: 'us-west-2'
+    bucketName: 'brianpsheridan'
+    sourceFolder: '$(System.DefaultWorkingDirectory)/public'
+    globExpressions: '**'
+    filesAcl: 'public-read'
+
 - task: CopyFiles@2
   inputs:
     SourceFolder: '$(System.DefaultWorkingDirectory)/public'
