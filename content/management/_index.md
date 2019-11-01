@@ -1,7 +1,6 @@
 ---
 title: "Management Resources"
-date: 2019-11-01T15:16:38-07:00
-draft: false
+menu: "main"
 ---
 
 # Leadership Resources
