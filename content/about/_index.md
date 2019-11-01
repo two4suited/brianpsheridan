@@ -10,9 +10,11 @@ menu: "main"
 
 ### Technical Skills
 
-* Amazon Webservices
-* .Net Core
-* Sql Server
+{{< tag amazonwebservices >}}
+{{< tag dot-net>}}
+{{< tag git>}}
+{{< tag python>}}
+{{< tag git>}}
 
 ### Management Skills
 

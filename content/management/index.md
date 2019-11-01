@@ -1,9 +1,8 @@
 ---
-title: 'Management'
+title: 'Management Resources'
 menu: "main"
 ---
 
-### Leadership Resources
 
 ## Books
 * [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_2?keywords=managers+path&qid=1558305993&s=gateway&sr=8-2)
