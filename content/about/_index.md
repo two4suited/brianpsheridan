@@ -6,7 +6,7 @@ menu: "main"
 ### About Me
 > I am very driven and enjoy solving business problems with technology. I have over 15 years of experience in all areas of technology positions. I've worked in Helpdesk, Server Administrator, Network Administrator, Programming, and Managing It Professionals.
 
-I excel at analyzing challenges within a company to determine the correct software or hardware needed to help them accomplish their mission while meeting their budgetary requirements. I stay current in all aspects of technology plus I use these skills to establish which hardware and software needs are most suitable for the company. 
+> I excel at analyzing challenges within a company to determine the correct software or hardware needed to help them accomplish their mission while meeting their budgetary requirements. I stay current in all aspects of technology plus I use these skills to establish which hardware and software needs are most suitable for the company. 
 
 ### Development Skills
 {{< tag go >}}
@@ -15,8 +15,8 @@ I excel at analyzing challenges within a company to determine the correct softwa
 {{< tag jquery >}}
 {{< tag javascript >}}
 
-### [Language Proficiency](https://corporatefinanceinstitute.com/resources/careers/resume/language-proficiency-levels/)
-English - Professional
 
 ### Education
+> Bachelors of Art - Management Information Systems - 
+University of Alaska at Anchroage
 
