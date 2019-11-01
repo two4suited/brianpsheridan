@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "This is a wesbite of my random thoughts and exploration in technology"
   bio = "Leader & Technologist"
   enableRSS = true
-  authorbox=true
+ 
 
   # Author information in posts
   aboutAuthor = "I'm Brian."
@@ -32,7 +32,6 @@ googleAnalytics = ""
   # Navigation links
 	home = ""
 	subscribe = ""
-  resources = ""
 
 	# Pagination links
 	olderPosts = ""
