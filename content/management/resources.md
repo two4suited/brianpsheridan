@@ -1,7 +1,7 @@
 ---
 title: "Management Resources"
 date: 2019-11-01T15:16:38-07:00
-draft: true
+draft: false
 ---
 
 # Leadership Resources
