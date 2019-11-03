@@ -1,5 +1,5 @@
 ---
-title: "Tools I Use"
+title: "Tools"
 menu: "main"
 ---
 
