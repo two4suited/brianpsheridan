@@ -21,6 +21,7 @@ menu: "main"
 * Budget Planning
 * Resource Planning
 * Stragtic Planning
+* Mentoring and Growth
 
 ### Education
 > BA - MIS - University of Alaska at Anchroage
