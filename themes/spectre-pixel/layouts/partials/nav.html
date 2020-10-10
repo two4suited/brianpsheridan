@@ -5,7 +5,7 @@
     </section>
     <section class="navbar-section">
       {{ if not .IsHome }}
-        <a class="btn btn-primary" href='{{ .Site.BaseURL }}'>{{ .Site.Params.home | default "Home" }}</a>
+        <a class="btn btn-primary" href='/'>{{ .Site.Params.home | default "Home" }}</a>
       {{ end }}
 
       {{ range .Site.Menus.main }}
