@@ -30,7 +30,7 @@ googleAnalytics = ""
   # translate or customize each string of the theme.
 
   # Navigation links
-	home = ""
+	home = "/"
 	subscribe = ""
 
 	# Pagination links
