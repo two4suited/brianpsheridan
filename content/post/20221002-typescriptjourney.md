@@ -1,9 +1,9 @@
 ---
-title: "Typescript Journey"
+title: "Typescript Journey - Intro"
 date: 2022-10-02T07:29:27-07:00
 draft: false
 tags: ["learning,typescript"]
-description: "Intro to Typescript Journey"
+description: "Typescript Journey - Intro"
 ---
 # Why?
 
