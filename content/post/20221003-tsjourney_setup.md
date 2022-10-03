@@ -49,3 +49,5 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
 
 ```
 
+_Next we will run your first Typescript App._
+
