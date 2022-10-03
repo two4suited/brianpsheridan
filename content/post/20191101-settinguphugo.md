@@ -1,6 +1,6 @@
 ---
 title: "Run Static Website for Cheap"
-date: 2019-11-1T16:29:27-07:00
+date: 2019-11-01T16:29:27-07:00
 draft: false
 tags: ["amazonwebservices"]
 description: "Using Hugo and AWS S3 to setup highly scalable, easy to maintain website"
