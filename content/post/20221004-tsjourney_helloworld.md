@@ -1,6 +1,6 @@
 ---
 title: "Typescript Journey - Hello World"
-date: 2022-10-04T06:00:00-07:00
+date: 2022-10-03T06:00:00-07:00
 draft: false
 tags: ["learning,typescript"]
 description: "Typescript Journey - Hello World"
